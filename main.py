@@ -11,7 +11,7 @@ data_path = 'DataSet1/coco_format/images'
 labels_path = 'DataSet1/coco_format/annotations/instances_val.json'
 
 # COCO predictions - make sure you added predictions json with labels and image id - same format as ground truth COCO json
-pred_filepath = "DataSet1/coco_format/predictions/predictions_json.json"
+pred_filepath = "DataSet1/coco_format/predictions/predictions.json"
 
 classes = ['void', 'person', 'car', 'truck', 'motorcycle', 'bicycle']
 

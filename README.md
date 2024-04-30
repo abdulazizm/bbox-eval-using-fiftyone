@@ -27,3 +27,6 @@ python3 -m pip install fiftyone
 python3 main.py
 ```
 Tested in Ubuntu 20.04 with Python 3.8.10  
+
+# Credits 
+*Voxel51* team - Thanks for developing such a great tool and contributing to open source world (https://voxel51.com/fiftyone/)  
